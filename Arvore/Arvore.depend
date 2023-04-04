@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1656249343 source:c:\users\gabar\onedrive\desktop\arvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvb.h"
+
+1656243902 c:\users\gabar\onedrive\desktop\arvore\arvb.h
+
+1656249753 source:c:\users\gabar\onedrive\desktop\arvore\arvb.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"arvb.h"
+

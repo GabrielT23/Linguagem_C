@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1651800877 source:c:\users\gabar\onedrive\desktop\listas 2\listaencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
+1651799483 c:\users\gabar\onedrive\desktop\listas 2\listaencadeada.h
+
+1651800441 source:c:\users\gabar\onedrive\desktop\listas 2\pilhalista.c
+	<stdio.h>
+	<stdlib.h>
+	"PilhaLista.h"
+	"ListaEncadeada.h"
+
+1651707976 c:\users\gabar\onedrive\desktop\listas 2\pilhalista.h
+	"ListaEncadeada.h"
+
+1651799988 source:c:\users\gabar\onedrive\desktop\listas 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+	"PilhaLista.h"
+	"FilaLista.h"
+
+1651795183 source:c:\users\gabar\onedrive\desktop\listas 2\filalista.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaLista.h"
+	"PilhaLista.h"
+	"ListaEncadeada.h"
+
+1651711320 c:\users\gabar\onedrive\desktop\listas 2\filalista.h
+
+1651795183 source:c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\filalista.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaLista.h"
+	"PilhaLista.h"
+	"ListaEncadeada.h"
+
+1652009794 c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\filalista.h
+
+1652012538 c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\pilhalista.h
+	"ListaEncadeada.h"
+
+1652012480 c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\listaencadeada.h
+	"PilhaLista.h"
+
+1652013319 source:c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\listaencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+	"PilhaLista.h"
+
+1652013163 source:c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\listavetor.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
+1655815751 source:c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+	"PilhaLista.h"
+	"FilaLista.h"
+
+1652009795 source:c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\pilhalista.c
+	<stdio.h>
+	<stdlib.h>
+	"PilhaLista.h"
+	"ListaEncadeada.h"
+
+1652013046 source:c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\filavetor.c
+	<stdio.h>
+	<stdlib.h>
+	"FilaVetor.h"
+	"PilhaVetor.h"
+	"ListaVetor.h"
+
+1652013046 c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\filavetor.h
+
+1652013242 c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\pilhavetor.h
+
+1652013163 c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\listavetor.h
+
+1652013242 source:c:\users\gabar\onedrive\desktop\trabalho de ed gabriel teixeira\pilhavetor.c
+	<stdio.h>
+	<stdlib.h>
+	"PilhaVetor.h"
+

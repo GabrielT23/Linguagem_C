@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1651804527 source:c:\users\gabar\onedrive\desktop\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+	"Pilha.h"
+	"Fila.h"
+
+1650326372 c:\users\gabar\onedrive\desktop\listas\listaencadeada.h
+
+1649771721 source:c:\users\gabar\onedrive\desktop\listas\listaencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
+1651804414 c:\users\gabar\onedrive\desktop\listas\pilha.h
+
+1651804548 source:c:\users\gabar\onedrive\desktop\listas\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1651803869 c:\users\gabar\onedrive\desktop\listas\fila.h
+	"Pilha.h"
+
+1651805092 source:c:\users\gabar\onedrive\desktop\listas\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
